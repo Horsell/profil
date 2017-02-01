@@ -1,0 +1,59 @@
+body
+{
+	background-color: #EBEBEB;
+}
+
+#img-circle
+{
+	text-align: center;
+}
+
+.card
+{
+	margin: 30px auto;
+	background-color: white;
+	padding: 50px;
+	width: 500px;
+	box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+	text-align: center;
+}
+
+.img-circle
+{
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+}
+
+li
+{
+	display: inline-block;
+	list-style: none;
+}
+h1
+{
+	color: #E57A74;
+}
+h2, h3, p
+{
+	color: #897D7D;
+}
+
+a
+{
+	text-decoration: none;
+}
+a:link
+{
+	color: #E57A74;
+}
+
+a:visited
+{
+	color: #E57A74;
+}
+text-center
+{
+	text-align: center;
+}
+
